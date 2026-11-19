@@ -1,2 +1,9 @@
-# gerenciador-de-personagens
-Sistema de criação, carregamento, exclusão e gerenciamento de personagens desenvolvido em BYOND / Dream Maker.
+# Gerenciador de Personagens
+
+Este repositório apresenta o sistema de gerenciamento de personagens desenvolvido para **Crônicas do Mundo Shinobi**, um jogo multiplayer criado utilizando BYOND e Dream Maker.
+
+O módulo é responsável por controlar o ciclo de vida dos personagens, desde sua criação até o carregamento e salvamento dos dados.
+
+Entre suas funcionalidades estão o gerenciamento de atributos, progressão, habilidades, aparência, localização e inventário.
+
+O projeto faz parte do desenvolvimento de Crônicas do Mundo Shinobi e demonstra a implementação prática de sistemas de gerenciamento e persistência de dados em Dream Maker.
