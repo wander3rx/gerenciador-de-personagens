@@ -14,3 +14,10 @@ O projeto faz parte do desenvolvimento de Crônicas do Mundo Shinobi e demonstra
 - Escolha do nome, clã e vila.
 - Definição da localização inicial.
 - Inicialização do personagem no mundo.
+
+## Tecnologias utilizadas
+
+- **BYOND:** plataforma utilizada para desenvolvimento do jogo.
+- **Dream Maker (DM):** linguagem e ambiente de programação utilizados na implementação dos sistemas.
+- **Git:** controle de versões do projeto.
+- **GitHub:** hospedagem e documentação do código-fonte.
