@@ -21,3 +21,10 @@ O projeto faz parte do desenvolvimento de Crônicas do Mundo Shinobi e demonstra
 - **Dream Maker (DM):** linguagem e ambiente de programação utilizados na implementação dos sistemas.
 - **Git:** controle de versões do projeto.
 - **GitHub:** hospedagem e documentação do código-fonte.
+- 
+## Estrutura dos arquivos
+
+| Arquivo | Responsabilidade |
+|---|---|
+| `Login.dm` | Inicialização do cliente, menu de entrada e gerenciamento das opções de personagem. |
+| `LoadYSave(Character).dm` | Criação, carregamento e salvamento dos personagens, incluindo atributos, habilidades e inventário. |
